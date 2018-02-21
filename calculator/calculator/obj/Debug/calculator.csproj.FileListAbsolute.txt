@@ -1,0 +1,4 @@
+C:\Users\dullalpha\source\repos\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\dullalpha\source\repos\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\dullalpha\source\repos\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\dullalpha\source\repos\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
